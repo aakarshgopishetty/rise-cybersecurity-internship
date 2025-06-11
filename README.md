@@ -23,7 +23,7 @@ Cybersecurity & Ethical Hacking Intern | Tamizhan Skills – Summer 2025
 
 ### 📌 Status Tracker
 - [ ] Project 1 
-- [ ] Project 2 
+- [ ] Project 2 ✅
 - [ ] Project 3
 - [ ] Project 4
 - [ ] Project 5 
