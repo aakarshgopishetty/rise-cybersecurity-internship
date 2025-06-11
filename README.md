@@ -28,7 +28,7 @@
 
 | 🚀 Project | Title                                | Status         |
 |-----------|--------------------------------------|----------------|
-| 1️⃣        | Phishing Website Detection Tool      | ⬜ Not Started  |
+| 1️⃣        | Phishing Website Detection Tool      | ✅ Completed  |
 | 2️⃣        | Password Strength Checker            | ✅ Completed    |
 | 3️⃣        | Keylogger (Educational Use)          | ⬜ Not Started  |
 | 4️⃣        | Port Scanner                         | ⬜ Not Started  |
