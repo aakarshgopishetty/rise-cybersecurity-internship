@@ -45,6 +45,21 @@ This keylogger is developed **strictly for educational use only** as part of the
 
 ---
 
+## 📦 Imports Used
+
+```python
+    from pynput import keyboard
+```
+
+---
+
+## 🔒 Kill Switch Feature
+
+- To safely stop the keylogger: Press the combination Ctrl + Alt + Q.
+- This will immediately stop the keylogger and close the listener.
+
+---
+
 ## ✅ Output Example
 
 When a user types something like:
