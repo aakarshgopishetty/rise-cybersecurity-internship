@@ -1,5 +1,11 @@
 # 🛡️ Phishing Website Detection Tool
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-Educational-yellow)
+![Last Commit](https://img.shields.io/github/last-commit/aakarshgopishetty/rise-cybersecurity-internship)
+![Repo Size](https://img.shields.io/github/repo-size/aakarshgopishetty/rise-cybersecurity-internship)
+
 A lightweight **Phishing URL Detection Tool** built with **Python** and **Tkinter**, using **rule-based logic** to identify suspicious URLs.
 
 > ✅ Developed as part of the **Cybersecurity & Ethical Hacking Internship** – Tamizhan Skills (June 2025)
