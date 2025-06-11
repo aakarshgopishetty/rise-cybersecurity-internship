@@ -52,3 +52,8 @@ Weak passwords are a major reason for data breaches. This tool helps users creat
 
    ```bash
    pip install nltk
+
+2. Make sure Python is installed.
+
+   ```bash
+   python main.py
