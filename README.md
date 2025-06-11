@@ -30,7 +30,7 @@
 |-----------|--------------------------------------|----------------|
 | 1️⃣        | Phishing Website Detection Tool      | ✅ Completed  |
 | 2️⃣        | Password Strength Checker            | ✅ Completed    |
-| 3️⃣        | Keylogger (Educational Use)          | ⬜ Not Started  |
+| 3️⃣        | Keylogger (Educational Use)          | ✅ Completed  |
 | 4️⃣        | Port Scanner                         | ⬜ Not Started  |
 | 5️⃣        | Ransomware Simulator (Educational Use) | ⬜ Not Started  |
 | 6️⃣        | Secure Chat App                      | ⬜ Not Started  |
