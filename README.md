@@ -29,9 +29,9 @@
 | 🚀 Project | Title                                | Status         |
 |-----------|--------------------------------------|----------------|
 | 1️⃣        | Phishing Website Detection Tool      | ✅ Completed  |
-| 2️⃣        | Password Strength Checker            | ✅ Completed    |
+| 2️⃣        | Password Strength Checker            | ✅ Completed  |
 | 3️⃣        | Keylogger (Educational Use)          | ✅ Completed  |
-| 4️⃣        | Port Scanner                         | ⬜ Not Started  |
+| 4️⃣        | Port Scanner                         | ✅ Completed  |
 | 5️⃣        | Ransomware Simulator (Educational Use) | ⬜ Not Started  |
 | 6️⃣        | Secure Chat App                      | ⬜ Not Started  |
 | 7️⃣        | SQL Injection Demo                   | ⬜ Not Started  |
