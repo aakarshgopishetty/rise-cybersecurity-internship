@@ -1,7 +1,7 @@
 # 🔐 Rise Cybersecurity Internship – Tamizhan Skills (June 2025)
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
-![Status](https://img.shields.io/badge/Projects-5%2F8%20Completed-brightgreen)
+![Status](https://img.shields.io/badge/Projects-6%2F8%20Completed-brightgreen)
 ![Internship](https://img.shields.io/badge/Tamizhan%20Skills-June%202025-blueviolet)
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/aakarshgopishetty/rise-cybersecurity-internship)
 
