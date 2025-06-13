@@ -32,8 +32,8 @@
 | 2️⃣        | Password Strength Checker            | ✅ Completed  |
 | 3️⃣        | Keylogger (Educational Use)          | ✅ Completed  |
 | 4️⃣        | Port Scanner                         | ✅ Completed  |
-| 5️⃣        | Ransomware Simulator (Educational Use) | ⬜ Not Started  |
-| 6️⃣        | Secure Chat App                      | ⬜ Not Started  |
+| 5️⃣        | Ransomware Simulator (Educational Use) | ✅ Completed  |
+| 6️⃣        | Secure Chat App                      | ✅ Completed  |
 | 7️⃣        | SQL Injection Demo                   | ⬜ Not Started  |
 | 8️⃣        | Wi-Fi Network Scanner                | ⬜ Not Started  |
 
