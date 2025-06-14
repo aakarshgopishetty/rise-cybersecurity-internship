@@ -80,3 +80,8 @@ c.execute("SELECT * FROM users WHERE username=? AND password=?", (uname, pwd))
 
 - This project is for educational purposes only.
 - Do not use these techniques in real-world applications or against any system without permission.
+
+## 👨‍💻 Developed by
+
+**Aakarsh Gopishetty**  
+Cybersecurity & Ethical Hacking Intern – Tamizhan Skills, Summer 2025

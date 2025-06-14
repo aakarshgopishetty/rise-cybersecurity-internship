@@ -1,7 +1,7 @@
 # 🔐 Rise Cybersecurity Internship – Tamizhan Skills (June 2025)
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
-![Status](https://img.shields.io/badge/Projects-7%2F8%20Completed-brightgreen)
+![Status](https://img.shields.io/badge/Projects-8%2F8%20Completed-brightgreen)
 ![Internship](https://img.shields.io/badge/Tamizhan%20Skills-June%202025-blueviolet)
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/aakarshgopishetty/rise-cybersecurity-internship)
 
@@ -35,7 +35,7 @@
 | 5️⃣        | Ransomware Simulator (Educational Use) | ✅ Completed  |
 | 6️⃣        | Secure Chat App                      | ✅ Completed  |
 | 7️⃣        | SQL Injection Demo                   | ✅ Completed  |
-| 8️⃣        | Wi-Fi Network Scanner                | ⬜ Not Started  |
+| 8️⃣        | Wi-Fi Network Scanner                | ✅ Completed  |
 
 ---
 
