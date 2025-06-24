@@ -30,7 +30,7 @@ To develop a secure chat application that allows encrypted text communication be
 ### 🖥️ Server Side
 
 ```bash
-python server_GUI.py
+python server_gui.py
 ```
 
 - Starts the server GUI.
@@ -39,7 +39,7 @@ python server_GUI.py
 ### 💻 Client Side
 
 ```bash
-python client_GUI.py
+python client_gui.py
 ```
 
 - Enter the IP address of the server (e.g., 127.0.0.1 for localhost).
@@ -56,6 +56,10 @@ python client_GUI.py
 ## ⚠️ Disclaimer
 
 This project is built strictly for educational and demonstration purposes as part of the Rise Cybersecurity Internship by Tamizhan Skills. Do not use it for unauthorized communication interception or data exfiltration.
+
+## 📽️ Demo Video
+
+[Click here to watch the demo](https://www.youtube.com/watch?v=4Y5z4unTsow)
 
 ## 👨‍💻 Developed by
 
