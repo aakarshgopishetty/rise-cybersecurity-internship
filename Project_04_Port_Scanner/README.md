@@ -54,6 +54,12 @@ Enter target IP or domain: scanme.nmap.org
 
 ---
 
+## 📽️ Demo Video
+
+[Click here to watch the demo](https://www.youtube.com/watch?v=v7bK3zrFjz0)
+
+---
+
 ## 👨‍💻 Developed by
 
 **Aakarsh Gopishetty**  

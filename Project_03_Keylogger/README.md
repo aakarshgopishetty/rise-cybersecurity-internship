@@ -76,7 +76,6 @@ Hello123![Key.backspace][Key.enter]
 - Special keys are logged in bracketed format like `[Key.space]`, `[Key.enter]`, `[Key.backspace]`, etc.
 
 ---
----
 
 ## 📽️ Demo Video
 
