@@ -49,15 +49,9 @@ The tool checks for:
 
 ---
 
-## 🖥️ GUI Preview
-
-![Screenshot](screenshot.png)
-
----
-
 ## 📽️ Demo Video
 
-[Click here to watch the demo](./demo.mp4)
+[Click here to watch the demo](https://www.youtube.com/watch?v=7DESS11h5KQ)
 
 ---
 
