@@ -88,6 +88,12 @@ This project simulates ransomware behavior **strictly for educational and ethica
 
 ---
 
+## 📽️ Demo Video
+
+[Click here to watch the demo](https://www.youtube.com/watch?v=dnNLpE0_qgU)
+
+---
+
 ## 👨‍💻 Developed by
 
 **Aakarsh Gopishetty**  
