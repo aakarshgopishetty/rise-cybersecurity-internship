@@ -55,6 +55,12 @@ The tool checks for:
 
 ---
 
+## 📽️ Demo Video
+
+[Click here to watch the demo](./demo.mp4)
+
+---
+
 ## 🚀 How to Run
 
 Make sure Python is installed, then run:
