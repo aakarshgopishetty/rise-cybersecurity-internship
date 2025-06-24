@@ -76,6 +76,10 @@ c.execute("SELECT * FROM users WHERE username=? AND password=?", (uname, pwd))
 
 - This ensures user input is treated as data, not executable SQL code.
 
+## 📽️ Demo Video
+
+[Click here to watch the demo](https://www.youtube.com/watch?v=sFdt4u8zoFc)
+
 ## ⚠️ Disclaimer
 
 - This project is for educational purposes only.
