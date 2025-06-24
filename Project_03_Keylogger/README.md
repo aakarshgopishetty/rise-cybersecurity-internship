@@ -80,10 +80,9 @@ Hello123![Key.backspace][Key.enter]
 
 ## 📽️ Demo Video
 
-[Click here to watch the demo](https://www.youtube.com/watch?v=Xc5ydOTENFU)
+[Click here to watch the demo](https://www.youtube.com/watch?v=EtvfLXfsfXU)
 
 ---
-
 
 ## 👨‍💻 Developed by
 
