@@ -40,9 +40,9 @@ Weak passwords are a major reason for data breaches. This tool helps users creat
 
 ---
 
-## 🖼️ Preview
+## 📽️ Demo Video
 
-![Screenshot](screenshot.png)
+[Click here to watch the demo](https://www.youtube.com/watch?v=Xc5ydOTENFU)
 
 ---
 
